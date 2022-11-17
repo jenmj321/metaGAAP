@@ -1,0 +1,19 @@
+# Config file for metagenome-tax-pipe
+echo -e "Reading autopipe v.1 config.yaml"
+project_dir="/mnt/research/EvansLab/BenucciGMNico/metagenome-taxa-pipe"
+cd $project_dir/rawdata/
+
+# Databases
+NCBI_nt="/mnt/research/EvansLab/DATABASES/ncbi_newest"
+kraken2_db="/mnt/research/EvansLab/DATABASES/kraken2_db"
+phix_db="/mnt/research/EvansLab/DATABASES/phix_db/my_phix"
+
+# Running Parameters
+LENGTH=1000
+COVERAGE=0.01
+
+# minikraken2_db="/mnt/research/ShadeLab/Benucci/databases/minikraken2_db"
+# dmnd_bac="/mnt/research/ShadeLab/Benucci/databases/emapperdb/eggdb_bacteria.dmnd"
+
+
+
