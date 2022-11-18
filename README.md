@@ -5,6 +5,13 @@
 
 ## **This piepeline is under development, please, be patient!**
 
+
+### **To clone this repo**
+
+```
+git clone git@github.com:Gian77/metaGAAP.git
+```
+
 > **_NOTE_**<br> 
 > This pipeline was born for running on the `HPCC` at Michigan State University which run the SLURM (Simple Linux Utility for Resource Management) job scheduler system. If you want to run this piepline in any other systems it will require substantial modification of the main, as well as, the accessory scripts.
 
