@@ -1,7 +1,7 @@
 # Config file for metagenome-tax-pipe
 echo -e "Reading autopipe v.1 config.yaml"
 project_dir="/mnt/home/jones514/metagenomic_analysis_2022"
-cd $project_dir/rawdata/
+cd $project_dir/raw_data/
 
 # Databases
 NCBI_nt="/mnt/research/EvansLab/DATABASES/ncbi_newest"
