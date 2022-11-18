@@ -1,6 +1,6 @@
 # Config file for metagenome-tax-pipe
 echo -e "Reading autopipe v.1 config.yaml"
-project_dir="/mnt/research/EvansLab/BenucciGMNico/metagenome-taxa-pipe"
+project_dir="/mnt/home/jones514/metagenomic_analysis_2022"
 cd $project_dir/rawdata/
 
 # Databases
